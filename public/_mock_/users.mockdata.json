@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "1111111111",
+    "username": "demo1",
+    "password": "demo1",
+    "firstName": "Demo",
+    "lastName": "User 1",
+    "email": "demo1@demo.com",
+    "cardNumber": "1111111111111111",
+    "tier": "Platinum",
+    "totalDollarsSpent": "",
+    "registrationDate": "",
+    "totalPointsEarned": ""
+  },
+  {
+    "_id": "2222222222",
+    "username": "demo2",
+    "password": "demo2",
+    "firstName": "Demo",
+    "lastName": "User 2",
+    "email": "demo2@demo.com",
+    "cardNumber": "2222222222222222",
+    "tier": "Gold",
+    "totalDollarsSpent": "",
+    "registrationDate": "",
+    "totalPointsEarned": ""
+  },
+  {
+    "_id": "3333333333",
+    "username": "demo3",
+    "password": "demo3",
+    "firstName": "Demo",
+    "lastName": "User 3",
+    "email": "demo3@demo.com",
+    "cardNumber": "3333333333333333",
+    "tier": "Silver",
+    "totalDollarsSpent": "",
+    "registrationDate": "",
+    "totalPointsEarned": ""
+  }
+]
